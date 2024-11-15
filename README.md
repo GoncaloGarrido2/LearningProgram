@@ -3,7 +3,7 @@
 Explore e ganhe experiência em diversas linguagens de programação com estes projetos práticos!
 
 ## 1. Python
-- **Raspador da web para recolha de dados**
+- **Aplicação para recolha de dados da Web**
 - **Bot de automação de e-mails**
 - **Aplicação de previsão meteorológica**: Utilizando APIs de terceiros.
 
