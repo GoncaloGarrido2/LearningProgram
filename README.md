@@ -3,7 +3,7 @@
 Explore e ganhe experiência em diversas linguagens de programação com estes projetos práticos!
 
 ## 1. Python
-- **Aplicação para recolha de dados da Web** - WebScoop
+- **Aplicação para recolha de dados da Web** - [WebScoop](https://github.com/ProjetosLendarios/WebScoop)
 - **Bot de automação de e-mails**
 - **Aplicação de previsão meteorológica**: Utilizando APIs de terceiros.
 
