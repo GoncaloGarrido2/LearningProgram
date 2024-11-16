@@ -4,7 +4,7 @@ Explore e ganhe experiência em diversas linguagens de programação com estes p
 
 ## 1. Python
 - **Aplicação para recolha de dados da Web** - [WebScoop](https://github.com/ProjetosLendarios/WebScoop)
-- **Bot de automação de e-mails**
+- **Bot de automação de e-mails** - [PyClima](https://github.com/ProjetosLendarios/PyClima)
 - **Aplicação de previsão meteorológica**: Utilizando APIs de terceiros.
 
 ## 2. Java
